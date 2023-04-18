@@ -1,4 +1,9 @@
-### Hi there 👋
+## About Me
+My name is Daragh, I'm a student at University College Dublin studying Physics with Astronomy and Space Science. I love computational physics and programming, its exciting to be able to use mathematics and code to model the world around us!
+
+### Ongoing Projects
+- Labwork at UCD (ucd_labs)
+- Wallpaper creation based on data from JPL's Horizon API (OtherProjects/horizonWallpaper)
 
 <!--
 **daraghhollman/daraghhollman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
