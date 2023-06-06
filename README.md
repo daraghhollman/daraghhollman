@@ -6,5 +6,5 @@ My name is Daragh, I'm a student at University College Dublin studying Physics w
 - An all in one tool for JUNO data visualisation (JUPT)
 
 <p align="center">
-  ![background](https://github.com/daraghhollman/daraghhollman/assets/62439417/22d5ebea-a154-47ec-a4cd-c053615c69f2)
+  <img src="https://github.com/daraghhollman/daraghhollman/assets/62439417/22d5ebea-a154-47ec-a4cd-c053615c69f2"  width=80% height=80%>
 </p>
