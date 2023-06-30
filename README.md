@@ -8,3 +8,7 @@ My name is Daragh, I'm a student at University College Dublin studying Physics w
 <p align="center">
   <img src="https://github.com/daraghhollman/daraghhollman/assets/62439417/22d5ebea-a154-47ec-a4cd-c053615c69f2"  width=80% height=80%>
 </p>
+
+<p align="center">
+  <img src="https://github.com/daraghhollman/daraghhollman/assets/62439417/5a4b8b45-7dc7-4388-9a10-b69f180470f0"  width=80% height=80%>
+</p>
