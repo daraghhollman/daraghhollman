@@ -5,7 +5,7 @@ I'm currently a research intern with the Planetary Magnetospheres research group
 
 ### Ongoing Projects
 - Wallpaper creation based on data from JPL's Horizon API (horizons-wallpaper)
-- An all in one tool for JUNO data visualisation (JUPT)
+- An all in one tool for data visualisation of the Juno spacecraft, currently in orbit around Jupiter (JUPT)
 
 <p align="center">
   <img src="https://github.com/daraghhollman/daraghhollman/assets/62439417/22d5ebea-a154-47ec-a4cd-c053615c69f2"  width=80% height=80%>
