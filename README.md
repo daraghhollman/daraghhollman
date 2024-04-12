@@ -3,7 +3,7 @@ My name is Daragh, I'm a student at University College Dublin studying Physics w
 
 I'm currently a research intern with the Planetary Magnetospheres research group at the Dublin Institue of Advanced Studies.
 
-### Ongoing Projects
+### Notable Projects
 - Wallpaper creation based on data from JPL's Horizon API (horizons-wallpaper)
 - An all in one tool for data visualisation of the Juno spacecraft, currently in orbit around Jupiter (JUPT)
 
